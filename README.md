@@ -16,8 +16,7 @@ Hey, I'm a highschool student exploring Computer Science, just because it intere
 <h1 align="center">Github Stats</h1>
 <a href="https://github.com/Devansh-bit">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devansh-bit" alt="My Github Stats" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-bit)](https://github.com/Devansh-bit)
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-bit" alt="My Github Stats" />
 </a>
 
 
