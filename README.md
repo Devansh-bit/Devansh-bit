@@ -15,7 +15,7 @@ Hey, I'm a highschool student exploring Computer Science, just because it intere
 <h1 align="center">Reach me at</h1>
 
 <a href="https://www.instagram.com/nerdy_dg/"><img src="https://img.icons8.com/cute-clipart/128/000000/instagram-new.png"/></a>
-<img src="https://img.icons8.com/cute-clipart/128/000000/discord-new-logo.png" alt="Exempl4r#1941"/>
+<span><img src="https://img.icons8.com/cute-clipart/128/000000/discord-new-logo.png" alt="Exempl4r#1941"/>Exempl4r#1941</span>
 
 
               -------------------------------------------------------------------------------------------------------------------------------------------
