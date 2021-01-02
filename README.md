@@ -26,6 +26,6 @@ Hey, I'm a highschool student exploring Computer Science, just because it intere
 
 <h1 align="center">Why not?t</h1>
 
-![Alt Text](https://miro.medium.com/max/1200/1*kUaj2XZF0R75duI7Lskt2w.gif)
 
+<img align="center" src="https://miro.medium.com/max/1200/1*kUaj2XZF0R75duI7Lskt2w.gif">
 
