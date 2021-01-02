@@ -1,7 +1,5 @@
-![Header](https://github.com/Soulless-404/Soulless-404/blob/main/logo.jpg)
-<h1 align="center">Hi i'm Soulless</h1>
-i'm an undergrad student who's passionate about the field of Computer Science, i'm into gaming and making memes in my free time.
-
+<h1 align="center">Devansh Gupta</h1>
+Hey, I'm a highschool student exploring Computer Science, just because it interests me ¯\_(ツ)_/¯. I'm into Gaming and not sleeping *wink*. I wish schools taught this stuff, albeit optionally.
 <h1 align="center"> :toolbox: Technologies </h1>
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=blueviolet)
@@ -9,7 +7,7 @@ i'm an undergrad student who's passionate about the field of Computer Science, i
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=python&color=blueviolet)
 
 <h1 align="center">Github Stats</h1>
-<a href="https://github.com/Devansh-bit/Devansh-bit">
+<a href="https://github.com/Devansh-bit">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devansh-bit&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My Github Stats" />
 </a>
 
@@ -17,8 +15,7 @@ i'm an undergrad student who's passionate about the field of Computer Science, i
 <h1 align="center">Reach me at</h1>
 
 <a href="https://www.instagram.com/nerdy_dg/"><img src="https://img.icons8.com/cute-clipart/128/000000/instagram-new.png"/></a>
-<a href="https://twitter.com/rahulmishra108"><img src="https://img.icons8.com/fluent/96/000000/twitter.png"/></a>
-<hr><img src="https://img.icons8.com/cute-clipart/128/000000/discord-new-logo.png"/>Soulless#2521<hr>
+<img src="https://img.icons8.com/cute-clipart/128/000000/discord-new-logo.png" alt="Exempl4r#1941"/>
 
 
               -------------------------------------------------------------------------------------------------------------------------------------------
