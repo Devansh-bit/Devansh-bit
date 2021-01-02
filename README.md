@@ -5,7 +5,7 @@ Hey, I'm a highschool student exploring Computer Science, just because it intere
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=blueviolet)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&color=blueviolet)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=blueviolet)
 
 
 <h1 align="center">Github Stats</h1>
