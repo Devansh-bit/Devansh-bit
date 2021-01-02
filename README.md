@@ -7,6 +7,7 @@ Hey, I'm a highschool student exploring Computer Science, just because it intere
 
 
 <h1 align="center"> :toolbox: Current interests </h1>
+
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=blueviolet)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=blueviolet)
 
