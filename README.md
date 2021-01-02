@@ -27,5 +27,5 @@ Hey, I'm a highschool student exploring Computer Science, just because it intere
 <h1 align="center">Why not?</h1>
 
 
-<img align="center" src="https://miro.medium.com/max/1200/1*kUaj2XZF0R75duI7Lskt2w.gif">
+<img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif">
 
