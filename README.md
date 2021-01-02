@@ -16,7 +16,7 @@ Hey, I'm a highschool student exploring Computer Science, just because it intere
 <h1 align="center">Github Stats</h1>
 <a href="https://github.com/Devansh-bit">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devansh-bit&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My Github Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-bit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My Github Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-bit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" alt="My Github Stats"/>
 </a>
 
 
