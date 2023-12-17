@@ -9,8 +9,7 @@ Hey, I'm a highschool student exploring Computer Science, just because it intere
 <h1 align="center"> :toolbox: Current interests </h1>
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=blueviolet)
-![](https://img.shields.io/badge/Engine-UE4-informational?style=flat&color=blueviolet)
-![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&color=blueviolet)
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 
 
