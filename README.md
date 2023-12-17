@@ -1,15 +1,22 @@
 <h1 align="center">Devansh Gupta</h1>
-Hey, I'm a highschool student exploring Computer Science, just because it interests me ¯\_(ツ)_/¯. I'm into Gaming and not sleeping *wink*. I wish schools taught this stuff, albeit optionally.
 <h1 align="center"> :toolbox: Technologies </h1>
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blueviolet)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=blueviolet)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=blueviolet)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 <h1 align="center"> :toolbox: Current interests </h1>
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=blueviolet)
-![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Web_Assembly-black.svg?logo=webassembly)
+![](https://img.shields.io/badge/TensorFlow-black.svg?logo=tensorflow)
+![](https://img.shields.io/badge/HTMX-black)
+
+
+
 
 
 
