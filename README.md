@@ -1,4 +1,5 @@
 <h1 align="center">Devansh Gupta</h1>
+
 <h1 align="center"> :toolbox: Technologies </h1>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,6 +15,7 @@
 ![](https://img.shields.io/badge/Web_Assembly-black.svg?logo=webassembly)
 ![](https://img.shields.io/badge/TensorFlow-black.svg?logo=tensorflow)
 ![](https://img.shields.io/badge/HTMX-black)
+![](https://img.shields.io/badge/LISP-black)
 
 
 
