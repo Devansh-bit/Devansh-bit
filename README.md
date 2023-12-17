@@ -31,8 +31,9 @@
 
 <h1 align="center">Reach me at</h1>
 
-<a href="https://www.instagram.com/nerdy_dg/"><img src="https://img.icons8.com/cute-clipart/128/000000/instagram-new.png"/></a>
-<span><img src="https://img.icons8.com/cute-clipart/128/000000/discord-new-logo.png" alt="Exempl4r#1941"/>Exempl4r#1941</span>
+<a href="https://www.instagram.com/_exempl4r_/"><img src="https://img.icons8.com/cute-clipart/128/000000/instagram-new.png"/></a>
+<a href="https://discordapp.com/users/291043355104641025"><img src="https://img.icons8.com/cute-clipart/128/000000/discord-new-logo.png"/></a>
+
 
 <h1 align="center">Why not?</h1>
 
